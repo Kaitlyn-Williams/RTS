@@ -1,0 +1,11 @@
+So, in Java there are wrapper classes for primitive data types that allow you 
+to treat the primitive types like objects, and it is required for the ArrayList 
+data type to use objects, not primitive types when specifying what type you are 
+using. It is somewhat bothersome to me that I can't use a primitive type for 
+ArrayLists so I think I would change that.
+
+Also, this doesn't exactly answer the question, but I would like it to be 
+easier/more intuitive to set up a programming environment in VSCode for 
+using different languages. Some languages won't work with WSL as the terminal, 
+but others do and it would be nice to be able to set different default terminals 
+for each language.
